@@ -3,4 +3,4 @@ timeout: 20
 max_attempts: 3
 target_bucket: "DOWNLOAD_BUCKET_NAME"
 cluster_ids:
-  - "REDIS_CLUSTER_NAEM"
+  - "REDIS_CLUSTER_NAME"
